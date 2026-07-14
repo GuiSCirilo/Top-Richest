@@ -1,0 +1,52 @@
+[
+	{
+		"TOP:": 1,
+		"Nome:": "Elon Musk",
+		"Fortuna:": "$865.5B"
+	},
+	{
+		"TOP:": 2,
+		"Nome:": "Larry Page",
+		"Fortuna:": "$293.7B"
+	},
+	{
+		"TOP:": 3,
+		"Nome:": "Sergey Brin",
+		"Fortuna:": "$270,9B"
+	},
+	{
+		"TOP:": 4,
+		"Nome:": "Jeff Bezos",
+		"Fortuna:": "$256.8B"
+	},
+	{
+		"TOP:": 5,
+		"Nome:": "Michael Dell",
+		"Fortuna:": "$244.5B"
+	},
+	{
+		"TOP:": 6,
+		"Nome:": "Mark Zuckerberg",
+		"Fortuna:": "$226.7B"
+	},
+	{
+		"TOP:": 7,
+		"Nome:": "Jensen Huang",
+		"Fortuna:": "$183B"
+	},
+	{	
+		"TOP:": 8,
+		"Nome:": "Larry Ellison",
+		"Fortuna:": "$169.7B"
+	},
+	{	
+		"TOP:": 9,
+		"Nome:": "Bernard Arnault",
+		"Fortuna:": "$147.5B"
+	},
+	{	
+		"TOP:": 10,
+		"Nome:": "Warren Buffett",
+		"Fortuna:": "$139.5B"
+	}
+]
